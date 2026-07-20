@@ -28,6 +28,7 @@ AI: OpenAI API · embeddings · semantic search · chatbots · document processi
 Also: OAuth 2.0 / JWT · push notifications (FCM) · geolocation · payments · App Store & Google Play releases
 
 📫 Let's talk
-💼 Upwork · LinkedIn
-✉️ massenziopatricio70@gmail.com
+💼 [Upwork](https://www.upwork.com/freelancers/~012edf05cd329478c9) · [LinkedIn](https://www.linkedin.com/in/patriciomassenzio/) . +54 3407 43-1964
+
+✉️ massenziopatricio70@gmail.com 
 🌎 Argentina (UTC−3) · available for remote & freelance work
